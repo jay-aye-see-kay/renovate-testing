@@ -1,0 +1,46 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "nodejs@18": {
+      "last_modified": "2024-02-24T23:06:34Z",
+      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#nodejs_18",
+      "source": "devbox-search",
+      "version": "18.19.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/fxly5x870ssyw5rbvdi58jbhc4j03mzk-nodejs-18.19.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/6iirvvbd99b7dfwk3z8phry2yliwvm99-nodejs-18.19.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/rzsav2ndbzah0vkmyqpnhcwxp4n0zdm6-nodejs-18.19.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/c8phnfr1s43123qm3fmyiq5n1hs5csdv-nodejs-18.19.1"
+        }
+      }
+    },
+    "ruby@3.1.0": {
+      "last_modified": "2022-03-12T09:51:53Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/02177737c5d977444df41e0f5d6124c48c64bba3#ruby_3_1",
+      "source": "devbox-search",
+      "version": "3.1.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/ndbh4nhviwy8fbn6vydfh0zncmxwx6wk-ruby-3.1.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/6nhcshfk9i9bzwv8cph16855qvvfg2qs-ruby-3.1.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/wzb73rlk7ippn8wprlq5ml2r3fkjnl4m-ruby-3.1.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/4nf8rn5i8ya7k3payd45dx5zcpaggbm9-ruby-3.1.0"
+        }
+      }
+    }
+  }
+}
