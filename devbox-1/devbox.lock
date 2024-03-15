@@ -21,24 +21,23 @@
         }
       }
     },
-    "ruby@3.1.0": {
-      "last_modified": "2022-03-12T09:51:53Z",
-      "plugin_version": "0.0.2",
-      "resolved": "github:NixOS/nixpkgs/02177737c5d977444df41e0f5d6124c48c64bba3#ruby_3_1",
+    "ruby@3.3.0": {
+      "last_modified": "2024-03-08T13:51:52Z",
+      "resolved": "github:NixOS/nixpkgs/a343533bccc62400e8a9560423486a3b6c11a23b#ruby_3_3",
       "source": "devbox-search",
-      "version": "3.1.0",
+      "version": "3.3.0",
       "systems": {
         "aarch64-darwin": {
-          "store_path": "/nix/store/ndbh4nhviwy8fbn6vydfh0zncmxwx6wk-ruby-3.1.0"
+          "store_path": "/nix/store/kfxq9qcafvk51pxvrjrjri7s9n682raj-ruby-3.3.0"
         },
         "aarch64-linux": {
-          "store_path": "/nix/store/6nhcshfk9i9bzwv8cph16855qvvfg2qs-ruby-3.1.0"
+          "store_path": "/nix/store/k6by88r38yi0mj2r6fzj4b2kkr0ggrwq-ruby-3.3.0"
         },
         "x86_64-darwin": {
-          "store_path": "/nix/store/wzb73rlk7ippn8wprlq5ml2r3fkjnl4m-ruby-3.1.0"
+          "store_path": "/nix/store/vsdq16ddcgmfrjvv4irz6hkk7g9n8wd4-ruby-3.3.0"
         },
         "x86_64-linux": {
-          "store_path": "/nix/store/4nf8rn5i8ya7k3payd45dx5zcpaggbm9-ruby-3.1.0"
+          "store_path": "/nix/store/g43ay3ihz3kwym3xzvi4qpclywpj1kw0-ruby-3.3.0"
         }
       }
     }

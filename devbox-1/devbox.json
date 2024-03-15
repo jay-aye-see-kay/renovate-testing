@@ -1,6 +1,6 @@
 {
   "packages": [
     "nodejs@18",
-    "ruby@3.1.0"
+    "ruby@3.3.0"
   ]
 }
