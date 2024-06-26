@@ -6,6 +6,12 @@
   "lockFileMaintenance": {
     "enabled": true
   },
+  "packageRules": [
+    {
+      "commitMessageTopic": "Node.js",
+      "matchDepNames": ["node", "nodejs", "@types/node"]
+    }
+  ],
   "schedule": ["at any time"],
   "dependencyDashboard": true
 }
