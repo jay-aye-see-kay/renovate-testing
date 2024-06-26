@@ -11,7 +11,7 @@
       "groupName": "nodejs",
       "commitMessageTopic": "Node.js",
       "matchPackagePatterns": ["^node$", "^nodejs$", "^@types/node$"],
-      "matchUpdateTypes": ["patch", "minor", "major"]
+      "allowedVersions": "<21"
     }
   ],
   "schedule": ["at any time"],
