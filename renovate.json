@@ -8,8 +8,9 @@
   },
   "packageRules": [
     {
+      "groupName": "nodejs",
       "commitMessageTopic": "Node.js",
-      "matchDepNames": ["node", "nodejs", "@types/node"]
+      "matchPackagePatterns": ["^node$", "^nodejs$", "^@types/node$"]
     }
   ],
   "schedule": ["at any time"],

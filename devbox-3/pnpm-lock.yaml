@@ -6,12 +6,12 @@ settings:
 
 dependencies:
   node:
-    specifier: '18'
+    specifier: ^18.12.0
     version: 18.20.3
 
 devDependencies:
   '@types/node':
-    specifier: '18'
+    specifier: ^18.12.0
     version: 18.19.39
 
 packages:
