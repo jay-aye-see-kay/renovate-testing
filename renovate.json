@@ -14,5 +14,7 @@
     }
   ],
   "schedule": ["at any time"],
-  "dependencyDashboard": true
+  "dependencyDashboard": true,
+  "prConcurrentLimit": 100,
+  "prHourlyLimit": 100
 }
