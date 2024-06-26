@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jetpack-io/devbox/0.10.1/.schema/devbox.schema.json",
   "packages": {
     "nodejs": {
-      "version": "18"
+      "version": "22.3.0"
     },
     "ruby": "3"
   },
