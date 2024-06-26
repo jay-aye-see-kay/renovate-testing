@@ -10,8 +10,7 @@
     {
       "groupName": "nodejs",
       "commitMessageTopic": "Node.js",
-      "matchPackagePatterns": ["^node$", "^nodejs$", "^@types/node$"],
-      "allowedVersions": "<21"
+      "matchPackagePatterns": ["^node$", "^nodejs$", "^@types/node$"]
     }
   ],
   "schedule": ["at any time"],
