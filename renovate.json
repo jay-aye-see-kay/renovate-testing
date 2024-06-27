@@ -11,6 +11,11 @@
       "groupName": "nodejs",
       "commitMessageTopic": "Node.js",
       "matchPackagePatterns": ["^node$", "^nodejs$", "^@types/node$"]
+    },
+    {
+      "groupName": "ruby",
+      "commitMessageTopic": "Ruby",
+      "matchPackagePatterns": ["^ruby$"]
     }
   ],
   "schedule": ["at any time"],
