@@ -15,7 +15,7 @@
     {
       "groupName": "ruby",
       "commitMessageTopic": "Ruby",
-      "matchPackagePatterns": ["^ruby$"]
+      "matchPackagePatterns": ["^ruby$", "^rubygems$"]
     }
   ],
   "schedule": ["at any time"],
