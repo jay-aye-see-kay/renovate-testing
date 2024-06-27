@@ -4,7 +4,7 @@
     "nodejs": {
       "version": "18.12.0"
     },
-    "ruby": "3"
+    "ruby": "3.3.2"
   },
   "env": {
     "DEVBOX_COREPACK_ENABLED": "1"
